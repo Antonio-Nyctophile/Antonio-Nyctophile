@@ -1,6 +1,9 @@
+<h1 align="center" mt-"-10"> Hi, I'm Antonio Brown </h1>
 
-# 💫 About Me:
-🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Front-end and Back-end Development<br>💬 Ask me about Java and Python<br>
+<h2 align="center" mt-"-10"> 💫About Me<br> </h2>
+🔭 I’m currently working on my personal website<br>
+🌱 I’m currently learning Front-end and Back-end Development<br>
+💬 Ask me about Java and Python<br>
 
 
 ## 🌐 Socials:
